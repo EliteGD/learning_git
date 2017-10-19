@@ -11,7 +11,8 @@
 			"file": "index.html",
 			"settings":
 			{
-				"buffer_size": 2639,
+				"buffer_size": 2647,
+				"encoding": "UTF-8",
 				"line_ending": "Unix"
 			}
 		}
@@ -61,7 +62,7 @@
 	},
 	"expanded_folders":
 	[
-		"/D/Dropbox (Personal)/Training/lake-tahoe"
+		"/D/Training/learning_git/lake-tahoe"
 	],
 	"file_history":
 	[
@@ -135,15 +136,15 @@
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 2639,
+						"buffer_size": 2647,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								808,
-								808
+								883,
+								883
 							]
 						],
 						"settings":
